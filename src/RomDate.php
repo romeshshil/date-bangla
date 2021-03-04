@@ -2,7 +2,7 @@
 
 namespace romesh\Datebangla;
 
-class Index
+class RomDate
 {
     public function dateConvert($englishDate)
     {
