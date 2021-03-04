@@ -1,6 +1,6 @@
 <?php 
 
-namespace vitalis\Datebangla;
+namespace romesh\Datebangla;
 
 class Index
 {
